@@ -1,2 +1,5 @@
 data/
-D:\clv\data\raw\online_retail_II.xlsx
+models/
+*.xlsx
+*.csv
+*.pkl
