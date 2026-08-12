@@ -41,6 +41,8 @@ Customer Segmentation
 Customer Intelligence & Opportunity Detection
           ↓
 Power BI Dashboard
+
+```
 Dataset
 
 The project uses the Online Retail II dataset.
