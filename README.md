@@ -1,4 +1,4 @@
-````markdown
+
 # Customer Intelligence Analytics Platform
 
 > **Unsupervised ML + Customer Analytics + Power BI**
